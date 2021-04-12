@@ -27,6 +27,7 @@
     "crypto-browserify": "^3.12.0",
     "expo": "^40.0.1",
     "expo-clipboard": "~1.0.1",
+    "expo-constants": "~9.3.3",
     "expo-file-system": "^10.0.0",
     "expo-image-manipulator": "~8.4.0",
     "expo-image-picker": "~9.2.0",

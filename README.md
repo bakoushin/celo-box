@@ -89,7 +89,7 @@ Personal boxes have the same properties as the public ones, except they are not 
 
 The Box uses [Firebase](https://firebase.google.com/) Firestore and Firebase Storage to store box metadata, such as description and cover image.
 
-Firebase configuration must be provided in `firebaseConfig.js`.
+Firebase configuration must be provided in `.env` file. See `.env.example` provided.
 
 ## Future Plans
 
