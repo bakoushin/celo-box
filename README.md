@@ -24,7 +24,7 @@ https://expo.io/@bakoushin/projects/celo-box
 
 ### Android
 
-Download APK from releases
+Download APK from [releases page](https://github.com/bakoushin/celo-box/releases/tag/v0.0.1)
 
 ## Use case: banking the unbanked
 
